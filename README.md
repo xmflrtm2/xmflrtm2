@@ -11,6 +11,8 @@ Unreal Engine 5와 C++로 게임플레이 시스템을 만듭니다.
 | **Auto UE Builder** (C# WinForms) | UE5 Generate, Build, 패키징·압축·캐시 정리를 프리셋 기반 원클릭으로 처리, 잠금 파일 기반 작업 대기열 | [AutoGenerate](https://github.com/xmflrtm2/AutoGenerate) |
 | **Clistock** (Python) | 한국투자증권 OpenAPI 자동매매·백테스트 도구. 규칙 기반 매매 + AI 보조, 견고성 분석·워크포워드 검증 | [Clistock](https://github.com/xmflrtm2/Clistock) |
 
+Auto UE Builder와 Clistock, 현직 QA 도구는 Claude Code로 구현하고 무엇을 만들지와 테스트·수정 방향은 직접 정했습니다. 조선협객전설 코드는 직접 작성했습니다.
+
 ### 기술
 
 - **Unreal Engine 5, C++, Blueprint**: 게임플레이 프레임워크(GameMode, GameInstance, PlayerController), Actor Component 설계, StateTree, EQS, Enhanced Input, AnimMontage, AnimNotify, UMG, 패키징
